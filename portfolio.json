@@ -1,0 +1,19 @@
+{
+  "assets": [
+    {
+      "symbol": "BTC",
+      "amount": 0.25,
+      "buy_price": 60000
+    },
+    {
+      "symbol": "ETH",
+      "amount": 8,
+      "buy_price": 2500
+    },
+    {
+      "symbol": "SOL",
+      "amount": 50,
+      "buy_price": 100
+    }
+  ]
+}
